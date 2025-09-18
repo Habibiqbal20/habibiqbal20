@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to work as Web Developer, Graphic Designer, Photo/Video Editor and Other
 - 🌱 I’m currently learning **Web Developer**
 
+#### Skills
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -31,6 +32,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<!-- ![image]({BadgeURLHere}) -->
+
+
+
+##### Connect With Me
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+
 
 ![Aura Farming](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlsYnRlZjlnd2s5c3lwbjZ4MHoyM2sxb3Y4cnZwNWN6eWlrcTM3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5lRguG1pEP8Ioe8owC/giphy.gif)
