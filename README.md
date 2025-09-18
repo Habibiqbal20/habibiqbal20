@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'M HABIB IQBAL👋
+
+![Baner](github-header-banner.png)
 
 <!--
 **Habibiqbal20/habibiqbal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently open to work as Web Developer, Graphic Designer, Photo/Video Editor and Other
+- 🌱 I’m currently learning **Web Developer**
+
+![Aura Farming](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlsYnRlZjlnd2s5c3lwbjZ4MHoyM2sxb3Y4cnZwNWN6eWlrcTM3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5lRguG1pEP8Ioe8owC/giphy.gif)
