@@ -1,4 +1,4 @@
-## Hi there I'M HABIB IQBAL👋
+# Hi there I'M HABIB IQBAL👋
 
 ![Baner](github-header-banner.png)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to work as Web Developer, Graphic Designer, Photo/Video Editor and Other
 - 🌱 I’m currently learning **Web Developer**
 
-### Skills
+## Skills
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 
 
-### My GitHub Stats
+## My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habibiqbal20&show_icons=true&theme=radical)
 
 
-### Connect With Me
-###### Follow my social media bellow
+## Connect With Me
+**Follow my social media bellow**
 ![https://www.instagram.com/habib.iqbal.l/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://facebook.com/habibiqballubis.lubis](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![https://www.threads.com/@habib.iqbal.l](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
